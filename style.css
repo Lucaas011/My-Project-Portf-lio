@@ -6,6 +6,18 @@ body {
     padding: 0;
 }
 
+.notificacao{
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background-color: #4CAF50;
+    color: white;
+    padding: 15px;
+    border-radius: 5px;
+    opacity: 1;
+    transition: opacity 0.5s ease;
+    z-index: 1000;
+}
 
 h3{
     text-align: center;
